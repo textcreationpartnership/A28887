@@ -1,0 +1,583 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact alphabetical catalogue of all that have taken the degree of Doctor of Physick in our two universities from the year 1659, to this present year 1695 publish'd for the benefit of all English-men, particularly to inform the people of London, who are honest and regular physicians / by John Badger ...</title>
+            <author>Badger, John, fl. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28887</idno>
+            <idno type="STC">Wing B384</idno>
+            <idno type="STC">ESTC R9913</idno>
+            <idno type="EEBO-CITATION">11670516</idno>
+            <idno type="OCLC">ocm 11670516</idno>
+            <idno type="VID">48046</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 10:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact alphabetical catalogue of all that have taken the degree of Doctor of Physick in our two universities from the year 1659, to this present year 1695 publish'd for the benefit of all English-men, particularly to inform the people of London, who are honest and regular physicians / by John Badger ...</title>
+                  <author>Badger, John, fl. 1693.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>University of Cambridge --  Alumni and alumnae.</term>
+               <term>University of Oxford --  Alumni and alumnae.</term>
+               <term>Physicians --  England --  Registers.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_physicians">
+            <pb facs="tcp:48046:1" rendition="simple:additions"/>
+            <head>An Exact Alphabetical CATALOGUE Of all that have taken the Degree of Doctor of Phyſick, in our Two UNIVERSITIES, from the Year 1659, to this preſent Year 1695. Publiſh'd for the Benefit of all <hi>Engliſh</hi>-men, particularly to Inform the People of <hi>London;</hi> Who are Honeſt and Regular Phyſicians. By <hi>John Badger,</hi> M. D.</head>
+            <p>Such as went out by Mandate, under ſome Arch-Biſhop, Chancellour, Foreign Prince or Embaſſador, are Marked thus *</p>
+            <p>Thoſe who have taken their Degree beyond Sea, and are admitted, <hi>ad eundem,</hi> have this Mark ‖</p>
+            <p>
+               <hi>C</hi> Cambridge. <hi>O</hi> Oxford.</p>
+            <list>
+               <head>A</head>
+               <item>Dr. ADams, Rich. <hi>O. Anno</hi> 84</item>
+               <item>* Dr. Alder, Pet. <hi>C. Anno</hi> 82</item>
+               <item>Dr. Allen, Tho. <hi>C. Anno</hi> 59</item>
+               <item>Dr. Alpe, Edward <hi>C. Anno</hi> 95</item>
+               <item>Dr. Alvey, Tho. <hi>O. Anno</hi> 71</item>
+               <item>‖ Dr. Amherſt, Arth. <hi>O. Anno</hi> 62</item>
+               <item>Dr. Aſhmole, Elias <hi>O. Anno</hi> 69</item>
+               <item>‖ Dr. Atfeild, John <hi>O. Anno</hi> 61</item>
+               <item>Dr. Atherton, Hen. <hi>C. Anno</hi> 73</item>
+               <item>Dr. Atton, George <hi>C. Anno</hi> 74</item>
+            </list>
+            <list>
+               <head>B</head>
+               <item>Dr. BAdger, John <hi>C. Anno</hi> 87</item>
+               <item>Dr. Bainbridge, <hi>N.C. Anno</hi> 81</item>
+               <item>* Dr. Bale, John <hi>C. Anno</hi> 63</item>
+               <item>Dr. Ballard, John <hi>O. Anno</hi> 88</item>
+               <item>Dr. Ballet, Charles <hi>C. Anno</hi> 74</item>
+               <item>* Dr. Bann, Nath. <hi>C. Anno</hi> 89</item>
+               <item>Dr. Barker, Rob. <hi>C. Anno</hi> 91</item>
+               <item>* Dr. Barlow, Will. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Baskervill, Rob. <hi>O. Anno</hi> 94</item>
+               <item>* Dr. Baſſet, Will. <hi>C. Anno</hi> 87</item>
+               <item>Dr. Bateman, John <hi>O. Anno</hi> 82</item>
+               <item>‖ Dr. Bathurſt, Chriſ. <hi>O. Anno</hi> 60</item>
+               <item>‖ Dr. Bathurſt, John <hi>O. Anno</hi> 61</item>
+               <item>‖ Dr. Baynes, Tho. <hi>C. Anno</hi> 61</item>
+               <item>Dr. Bedingfield, Th. <hi>O. Anno</hi> 61</item>
+               <item>‖ Dr. Beech, And. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Bentley, Will. <hi>O. Anno</hi> 61</item>
+               <item>* Dr. Bernard, Franc. <hi>C. Anno</hi> 78</item>
+               <item>‖ Dr. Bidgood, Joſ. <hi>O. Anno</hi> 60</item>
+               <item>‖ Dr. Bigg, John <hi>C. Anno</hi> 94</item>
+               <item>* Dr. Blenkarne, Sim. <hi>C. Anno</hi> 76</item>
+               <item>Dr. Bloys, Robert <hi>C. Anno</hi> 69</item>
+               <item>‖ Dr. Borlaſe, Edm. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Boyle, Robert <hi>O. Anno</hi> 65</item>
+               <item>Dr. Boyſe, Will. <hi>O. Anno</hi> 90</item>
+               <item>Dr. Brackenbury, P. <hi>C. Anno</hi> 65</item>
+               <item>Dr. Braddy, Robert <hi>C. Anno</hi> 60</item>
+               <item>Dr. Breach, Will. <hi>O. Anno</hi> 87</item>
+               <item>Dr. Brewer, Jacob <hi>O. Anno</hi> 92</item>
+               <item>* Dr. Brian, Will. <hi>O. Anno</hi> 70</item>
+               <item>‖ Dr. Bright, Will. <hi>O. Anno</hi> 61</item>
+               <item>Dr. Briggs, Will. <hi>C. Anno</hi> 77</item>
+               <item>Dr. Brook, Humph. <hi>O. Anno</hi> 59</item>
+               <item>Dr. Brook, Humph. <hi>C. Anno</hi> 93</item>
+               <item>* Dr. Brown, John <hi>C. Anno</hi> 68</item>
+               <item>Dr. Brown, Edw. <hi>O. Anno</hi> 67</item>
+               <item>‖ Dr. Bruce, David <hi>O. Anno</hi> 60</item>
+               <item>Dr. Budgen, John <hi>C. Anno</hi> 71</item>
+               <item>* Dr. Burgoyne, Rog. <hi>C. Anno</hi> 60</item>
+               <item>* Dr. Burrough, Jam. <hi>C. Anno</hi> 89</item>
+               <item>Dr. Burwell, Tho. <hi>C. Anno</hi> 68</item>
+               <item>* Dr. Butler, Nich. <hi>C. Anno</hi> 69</item>
+               <item>* Dr. Butler, John <hi>C. Anno</hi> 71</item>
+            </list>
+            <list>
+               <head>C</head>
+               <item>Dr. CAde, Salisb. <hi>O. Anno</hi> 91</item>
+               <item>Dr. Caeſar, Auguſt. <hi>O. Anno</hi> 60</item>
+               <item>* Dr. Caeſar, Auguſt. <hi>C. Anno</hi> 83</item>
+               <item>* Dr. Carolus Elect. Pa<g ref="char:EOLhyphen"/>latinus <hi>O. Anno</hi> 80</item>
+               <item>Dr. Carre, Nich. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Carr, Rich. <hi>C. Anno</hi> 86</item>
+               <item>* Dr. Carter, Nich. <hi>C. Anno</hi> 64</item>
+               <item>Dr. Carver, Tho. <hi>C. Anno</hi> 70</item>
+               <item>Dr. Caſtle, George, <hi>O. Anno</hi> 65</item>
+               <item>* Dr. Chamberlain, G. <hi>C. Anno</hi> 61</item>
+               <item>* Dr. Chamberlain Jo. <hi>C. Anno</hi> 76</item>
+               <item>* Dr. Chamberlain, H. <hi>C. Anno</hi> 89</item>
+               <item>Dr. Charles, John <hi>C. Anno</hi> 66</item>
+               <item>Dr. Chicheſter, Ami. <hi>C. Anno</hi> 87</item>
+               <item>* Dr. Clench, And. <hi>C. Anno</hi> 71</item>
+               <item>Dr. Clerke, John <hi>O. Anno</hi> 60</item>
+               <item>Dr. Clerk, Joſiah <hi>C. Anno</hi> 66</item>
+               <item>Dr. Clerk, Benj. <hi>C. Anno</hi> 76</item>
+               <item>* Dr. Clifford, Abra. <hi>O. Anno</hi> 70</item>
+               <item>Dr. Coke, John <hi>C. Anno</hi> 83</item>
+               <item>Dr. Coker, Will. <hi>O. Anno</hi> 77</item>
+               <item>Dr. Cole, Will. <hi>O. Anno</hi> 66</item>
+               <item>* Dr. Colladdonnius, Theo<g ref="char:EOLhyphen"/>doſius Arm. <hi>O. Anno</hi> 70</item>
+               <item>‖ Dr. Collins, Sam. <hi>O. Anno</hi> 59</item>
+               <item>Dr. Collins, Sam. <hi>C. Anno</hi> 73</item>
+               <item>* Dr. Colt. Wil. Dutt. <hi>O. Anno</hi> 80</item>
+               <item>Dr. Conny, Robert <hi>O. Anno</hi> 85</item>
+               <item>Dr. Corbel, Henry <hi>C. Anno</hi> 59</item>
+               <item>Dr. Cotton, Ralph <hi>C. Anno</hi> 69</item>
+               <item>Dr. Coward, Will. <hi>O. Anno</hi> 87</item>
+               <item>* Dr. Coxe, Daniel <hi>C. Anno</hi> 68</item>
+               <item>* Dr. Crab, Will. <hi>C. Anno</hi> 63</item>
+               <item>* Dr. Craivly, Rob. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Crask, Tho. <hi>C. Anno</hi> 62</item>
+               <item>Dr. Creed, Gulielm. <hi>O. Anno</hi> 94</item>
+               <item>Dr. Cronig, Lauren. <hi>O. Anno</hi> 83</item>
+               <item>* Dr. Croon, Will. <hi>C. Anno</hi> 62</item>
+               <item>‖ * Dr. Crull, Jodocus <hi>C. Anno</hi> 81</item>
+               <item>* Dr. Crump, Edw. <hi>O. Anno</hi> 70</item>
+            </list>
+            <list>
+               <head>D</head>
+               <item>Dr. DAde, John <hi>C. Anno</hi> 83</item>
+               <item>Dr. Danvers, D. <hi>O. Anno</hi> 66</item>
+               <item>Dr. Darnelly, Rich. <hi>C. Anno</hi> 81</item>
+               <item>* Dr. Davenant, Joh. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Davys, Edm. <hi>O. Anno</hi> 65</item>
+               <item>‖ Dr. Davies, Nich. <hi>O. Anno</hi> 60</item>
+               <item>‖ * Dr. Dawes, Will. <hi>C. Anno</hi> 81</item>
+               <item>Dr. Dawkins, Will. <hi>C Anno</hi> 79</item>
+               <item>Dr. Dawſon, Tho. <hi>C. Anno</hi> 69</item>
+               <item>Dr. Deeds, Guli. <hi>O. Anno</hi> 91</item>
+               <item>Dr. Derham, Sam. <hi>O. Anno</hi> 86</item>
+               <item>* Dr. Dickſon, Tobias <hi>C. Anno</hi> 61</item>
+               <item>Dr. Dominick, Chr. <hi>O. Anno</hi> 75</item>
+               <item>* Dr. Dorr, Abraham <hi>O. Anno</hi> 80</item>
+               <item>* Dr. Dorrel, Nich. <hi>C. Anno</hi> 77</item>
+               <item>‖ Dr. Downes, John <hi>O. Anno</hi> 61</item>
+               <item>Dr. Downes, Sam. <hi>C. Anno</hi> 80</item>
+               <item>Dr. Drake, James <hi>C. Anno</hi> 95</item>
+               <item>‖ Dr. Dunn, Patrick <hi>O. Anno</hi> 77</item>
+               <item>Dr. Durſton, Will. <hi>O. Anno</hi> 60</item>
+            </list>
+            <list>
+               <head>E</head>
+               <item>* Dr. EAles, Luke <hi>C. Anno</hi> 61</item>
+               <item>Dr. Eedes, Fran. <hi>O. Anno</hi> 74</item>
+               <item>* Dr. Edwards, Nich. <hi>C. Anno</hi> 63</item>
+               <item>* Dr. Elliot, John <hi>C. Anno</hi> 80</item>
+               <item>* Dr. Elliot, Tho. <hi>C. Anno</hi> 71</item>
+               <item>Dr. Elliſton, Joſ. <hi>C. Anno</hi> 62</item>
+               <item>Dr. Ellwood, Phin. <hi>O. Anno</hi> 82</item>
+               <item>Dr. Exton, Edw. <hi>O. Anno</hi> 66</item>
+            </list>
+            <list>
+               <head>F</head>
+               <item>* Dr. FAirclough, J. <hi>C. Anno</hi> 61</item>
+               <item>Dr. Feild, Rich. <hi>C. Anno</hi> 83</item>
+               <item>* Dr. Ferber, Joh. Ber. <hi>O. Anno</hi> 80</item>
+               <item>* Dr. Fettyplace, Th. <hi>C. Anno</hi> 63</item>
+               <item>‖ Dr. Finch, John <hi>C. Anno</hi> 61</item>
+               <item>Dr. Floyer, John <hi>O. Anno</hi> 80</item>
+               <item>Dr. Flyer, Ralph <hi>C. Anno</hi> 65</item>
+               <item>‖ Dr.Fludd, Levinus <hi>O. Anno</hi> 61</item>
+               <item>Dr. Foley, John <hi>O. Anno</hi> 87</item>
+               <item>Dr. Foot, Daniel <hi>C. Anno</hi> 64</item>
+               <item>Dr. Fowke, Phineas <hi>C. Anno</hi> 68</item>
+               <item>* Dr. Fraiſer, Charl. <hi>C. Anno</hi> 77</item>
+               <item>Dr. Franklin, Rich. <hi>O. Anno</hi> 60</item>
+               <item>* Dr. Franklin, Will. <hi>C. Anno</hi> 60</item>
+               <item>* Dr. Frere, Mich. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Fry, Stephen <hi>O. Anno</hi> 85</item>
+               <item>Dr. Fryer, John <hi>C. Anno</hi> 83</item>
+               <item>Dr. Fuller, Tho. <hi>C. Anno</hi> 81</item>
+               <item>Dr. Fullwood, Will. <hi>C. Anno</hi> 59</item>
+               <item>* Dr. Fullwood, Pet. <hi>C. Anno</hi> 68</item>
+            </list>
+            <list>
+               <head>G</head>
+               <item>‖ Dr. GAilard, Joſ. <hi>C. Anno</hi> 93</item>
+               <item>Dr. Gardiner, Jo. <hi>C. Anno</hi> 59</item>
+               <item>* Dr. Garret, John <hi>C. Anno</hi> 79</item>
+               <item>Dr. Garth, Sam. <hi>C. Anno</hi> 90</item>
+               <item>* Dr. Gelſthorpe, Ed. <hi>C. Anno</hi> 63</item>
+               <item>Dr. Gelſthorpe, Pet. <hi>C. Anno</hi> 88</item>
+               <item>Dr. Gerrard, Pet. <hi>O. Anno</hi> 69</item>
+               <item>Dr. Ghibbeſius, Jac. <hi>O. Anno</hi> 73</item>
+               <item>Dr. Gibbons, Will. <hi>O. Anno</hi> 83</item>
+               <item>* Dr. Gill, Thomas <hi>C. Anno</hi> 80</item>
+               <item>* Dr. Goodall, Charl. <hi>C. Anno</hi> 71</item>
+               <item>‖ Dr. Goodman, Th. <hi>C. Anno</hi> 89</item>
+               <item>‖ Dr. Gornia. Joh. Ba. <hi>O. Anno</hi> 69</item>
+               <item>* Dr. Goſtlin, John <hi>C. Anno</hi> 61</item>
+               <item>Dr. Gould, Will. <hi>O. Anno</hi> 87</item>
+               <item>Dr. Green, Chriſt. <hi>C. Anno</hi> 85</item>
+               <item>Dr. Greenwood, D. <hi>O. Anno</hi> 87</item>
+               <item>Dr. Gregorie, Dav. <hi>O. Anno</hi> 91</item>
+               <item>* Dr. Grey, Edm. <hi>O. Anno</hi> 70</item>
+               <item>* Dr. Griffith, Alex. <hi>C. Anno</hi> 89</item>
+               <item>Dr. Griffiths, Andr. <hi>C. Anno</hi> 86</item>
+            </list>
+            <list>
+               <head>H</head>
+               <item>* Dr. HAllely, Chri. <hi>C. Anno</hi> 71</item>
+               <item>* Dr. Halſius, Ed. <hi>O. Anno</hi> 70</item>
+               <item>Dr. Hannes, Edw. <hi>O. Anno</hi> 95</item>
+               <item>* Dr. Harborough, Jo. <hi>C. Anno</hi> 82</item>
+               <item>‖ Dr. Harris, Walter <hi>C. Anno</hi> 80</item>
+               <item>Dr. Harriſon, Ralph <hi>O. Anno</hi> 76</item>
+               <item>* Dr. Harriſon, Lanc. <hi>C. Anno</hi> 61</item>
+               <item>* Dr. Harriſon, John <hi>C. Anno</hi> 82</item>
+               <item>‖ Dr. Harriſon, Lanc. <hi>C. Anno</hi> 83</item>
+               <item>Dr. Hatley, Griffith <hi>C. Anno</hi> 69</item>
+               <item>* Dr. Hatton, Rob. <hi>C. Anno</hi> 82</item>
+               <item>Dr. Hawes, John <hi>C. Anno</hi> 60</item>
+               <item>‖ Dr. Hawes, Will. <hi>O. Anno</hi> 63</item>
+               <item>Dr. Hawys, John <hi>C. Anno</hi> 88</item>
+               <item>Dr. Hawtaine, Ed. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Hays, Thom. <hi>O. Anno</hi> 69</item>
+               <item>Dr. Hele, Nich. <hi>O. Anno</hi> 69</item>
+               <item>‖ Dr. Henchman, Ro. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Higgs, Rich. <hi>O. Anno</hi> 59</item>
+               <item>Dr. Hill, John <hi>O. Anno</hi> 59</item>
+               <item>* Dr. Hitch, John <hi>C. Anno</hi> 65</item>
+               <item>Dr. Hoar, Will. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Hoar, Leonard <hi>C. Anno</hi> 70</item>
+               <item>Dr. Hobſon, Rob. <hi>C. Anno</hi> 59</item>
+               <item>Dr. Hodges, Nat. <hi>O. Anno</hi> 59</item>
+               <item>‖ Dr. Hodſon, Dan. <hi>O. Anno</hi> 64</item>
+               <item>‖ Dr. Hodſon, Tim. <hi>O. Anno</hi> 59</item>
+               <item>Dr. Hollins, John <hi>C. Anno</hi> 65</item>
+               <item>Dr. Holwell, Will. <hi>O. Anno</hi> 91</item>
+               <item>Dr. Hoogan, Hen. <hi>C. Anno</hi> 70</item>
+               <item>* Dr. Horſington, Th. <hi>C. Anno</hi> 63</item>
+               <item>* Dr. Howarth, Theo. <hi>C. Anno</hi> 61</item>
+               <item>* Dr. Howel, Paul <hi>C. Anno</hi> 70</item>
+               <item>Dr. Howman, Rog. <hi>C. Anno</hi> 74</item>
+               <item>Dr. Hoy, Thom. <hi>O. Anno</hi> 89</item>
+               <item>Dr. Hunt, Steph. <hi>C. Anno</hi> 94</item>
+            </list>
+            <list>
+               <head>I</head>
+               <item>Dr. JAckſon, Geor. <hi>C. Anno</hi> 77</item>
+               <item>Dr. Jackſon, Will. <hi>O. Anno</hi> 61</item>
+               <item>Dr. Jackſon, Sam. <hi>O. Anno</hi> 71</item>
+               <item>Dr. Jacob, Will. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Jacobeus, John <hi>O. Anno</hi> 74</item>
+               <item>Dr. Jameſon, Tho. <hi>O. Anno</hi> 68</item>
+               <item>Dr. Jeanes, Tho. <hi>O. Anno</hi> 59</item>
+               <item>* Dr. Johnſon, Cudw. <hi>C. Anno</hi> 82</item>
+               <item>Dr. Johnſtone, Cha. <hi>C. Anno</hi> 87</item>
+               <item>Dr. Jones, Edw. <hi>O. Anno</hi> 69</item>
+               <item>* Dr. Jones, John <hi>C. Anno</hi> 78</item>
+               <item>Dr. Izacke, Sam. <hi>O. Anno</hi> 75</item>
+            </list>
+            <list>
+               <head>K</head>
+               <item>Dr. KEurden, <hi>alias</hi> Jack<g ref="char:EOLhyphen"/>ſon, Rich. <hi>O. Anno</hi> 63</item>
+               <item>Dr. Kimberly, Sam. <hi>O. Anno</hi> 85</item>
+               <item>Dr. King, Carolus <hi>O. Anno</hi> 92</item>
+               <item>* Dr. King, Edmond <hi>C. Anno</hi> 71</item>
+               <item>* Dr. Koningſmark, Phi<g ref="char:EOLhyphen"/>lip. Chriſt. <hi>O. Anno</hi> 80</item>
+            </list>
+            <list>
+               <head>L</head>
+               <item>Dr. LAdd, James <hi>C. Anno</hi> 95</item>
+               <item>Dr. Lamphire, J. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Laſher, Joſh. <hi>O. Anno</hi> 79</item>
+               <item>‖ Dr. Lawſon, John <hi>C. Anno</hi> 59</item>
+               <item>* Dr. Leigh, Charles <hi>C. Anno</hi> 89</item>
+               <item>* Dr. Leveck, Monſi. <hi>C. Anno</hi> 89</item>
+               <item>Dr. Levinz, Will. <hi>O. Anno</hi> 66</item>
+               <item>* Dr. Lightfoot, Robert <hi>C. Anno</hi> 81</item>
+               <item>Dr. Liſter, Martin, <hi>O. Anno</hi> 83</item>
+               <item>* Dr. Liſter, Rich. <hi>C. Anno</hi> 78</item>
+               <item>Dr. Lower, Rich. <hi>O. Anno</hi> 65</item>
+               <item>* Dr. Lloyd, Simon <hi>C. Anno</hi> 88</item>
+               <item>Dr. Ludwell, John <hi>O. Anno</hi> 76</item>
+               <item>Dr. Luffe, John <hi>O. Anno</hi> 73</item>
+               <item>Dr. Lybbe, Charles <hi>O. Anno</hi> 82</item>
+            </list>
+            <list>
+               <head>M</head>
+               <item>* Dr. MAeſler, Jo. C. <hi>C. Anno</hi> 64</item>
+               <item>Dr. Man, Tho. <hi>C. Anno</hi> 87</item>
+               <item>Dr. Mapletoft, John <hi>C. Anno</hi> 67</item>
+               <item>Dr. Marten, Edm. <hi>O. Anno</hi> 89</item>
+               <item>* Dr. Maſon, Rich. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Maſter, John <hi>O. Anno</hi> 72</item>
+               <item>Dr. Mayow, Tho. <hi>O. Anno</hi> 78</item>
+               <item>* Dr. Meggs, James <hi>C. Anno</hi> 61</item>
+               <item>* Dr. Mellevil, An. de <hi>O. Anno</hi> 80</item>
+               <item>Dr. Metford, John <hi>O. Anno</hi> 61</item>
+               <item>Dr. Midgly, Rob. <hi>C. Anno</hi> 87</item>
+               <item>Dr. Millington, Th. <hi>O. Anno</hi> 59</item>
+               <item>Dr. Mills, Walter <hi>C. Anno</hi> 80</item>
+               <item>* Dr. Milne, James <hi>C. Anno</hi> 89</item>
+               <item>‖ Dr. Moriſon, Rob. <hi>O. Anno</hi> 69</item>
+               <item>* Dr. Morris, Sam. <hi>O. Anno</hi> 70</item>
+               <item>Dr. Morris, Claverus <hi>O. Anno</hi> 91</item>
+               <item>* Dr. Morton, Rich. <hi>O. Anno</hi> 70</item>
+               <item>Dr. Morton, Rich. <hi>C. Anno</hi> 95</item>
+               <item>Dr. Mott, Edm. <hi>C. Anno</hi> 93</item>
+               <item>* Dr. Moulins, James <hi>C. Anno</hi> 81</item>
+               <item>Dr. Mumford, Sam. <hi>C. Anno</hi> 94</item>
+               <item>Dr. Muſgrave, Will. <hi>O. Anno</hi> 89</item>
+            </list>
+            <list>
+               <head>N</head>
+               <item>Dr. NEale, Geo. <hi>O. Anno</hi> 61</item>
+               <item>* Dr. Neale, John <hi>C. Anno</hi> 61</item>
+               <item>Dr. Needham, Walt. <hi>C. Anno</hi> 64</item>
+               <item>Dr. Nelſon, Matt. <hi>C. Anno</hi> 69</item>
+               <item>Dr. Nicholas, Dent. <hi>O. Anno</hi> 95</item>
+               <item>* Dr. Nicholſon, Oth. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Nicholſon, Joh. <hi>C. Anno</hi> 92</item>
+               <item>* Dr. Northleigh, Joh. <hi>C. Anno</hi> 87</item>
+               <item>* Dr. Novel, Tho. <hi>C. Anno</hi> 75</item>
+               <item>Dr. Nutton, John. <hi>C. Anno</hi> 85</item>
+            </list>
+            <list>
+               <head>O</head>
+               <item>* Dr. OLdis Valent. <hi>C. Anno</hi> 70</item>
+               <item>Dr. Oſmond, Jo. <hi>O. Anno</hi> 89</item>
+            </list>
+            <list>
+               <head>P</head>
+               <item>Dr. PAlmer, Th. <hi>C. Anno</hi> 83</item>
+               <item>Dr. Paman, Hen. <hi>C. Anno</hi>
+               </item>
+               <item>Dr. Parham, Peter <hi>C. Anno</hi> 75</item>
+               <item>Dr. Paris, John <hi>O. Anno</hi> 66</item>
+               <item>* Dr. Parker, Sam. <hi>O. Anno</hi> 71</item>
+               <item>‖ Dr. Parker, Will. <hi>O. Anno</hi> 59</item>
+               <item>Dr. Parſons, Arth. <hi>O. Anno</hi> 93</item>
+               <item>* Dr. Paxton, Peter <hi>C. Anno</hi> 86</item>
+               <item>* Dr. Pearſe, James <hi>C. Anno</hi> 81</item>
+               <item>Dr. Peirce, Rob. <hi>O. Anno</hi> 61</item>
+               <item>Dr. Pigot, Henry <hi>O. Anno</hi> 92</item>
+               <item>Dr. Pigott, George <hi>O. Anno</hi> 93</item>
+               <item>Dr. Pitt, Robert <hi>O. Anno</hi> 82</item>
+               <item>Dr. Pitt, Chriſt. <hi>O. Anno</hi> 92</item>
+               <item>* Dr. Playters, Will. <hi>C. Anno</hi> 65</item>
+               <item>Dr. Polwhele, Dego. <hi>O. Anno</hi> 60</item>
+               <item>* Dr. Poole, Matthew <hi>C. Anno</hi> 84</item>
+               <item>Dr. Pope, Walter <hi>O. Anno</hi> 61</item>
+               <item>‖ Dr. Price John <hi>C. Anno</hi> 92</item>
+               <item>Dr. Pyne, Thomas <hi>O. Anno</hi> 91</item>
+            </list>
+            <list>
+               <head>R</head>
+               <item>Dr. RAdcliffe, Jo. <hi>O. Anno</hi> 82</item>
+               <item>‖ * Dr. Ramſey, Wi. <hi>C. Anno</hi> 67</item>
+               <item>Dr. Randolph, Will. <hi>C. Anno</hi> 68</item>
+               <item>‖ Dr. Read, Richard <hi>O. Anno</hi> 63</item>
+               <item>Dr. Reyner, Rich. <hi>C. Anno</hi> 68</item>
+               <item>‖ Dr. Richardſon, Ri. <hi>C. Anno</hi> 94</item>
+               <item>‖ Dr. Richier, Peter <hi>O. Anno</hi> 62</item>
+               <item>Dr. Richier, Peter <hi>C. Anno</hi> 74</item>
+               <item>‖ Dr. Ridley, Hum. <hi>C. Anno</hi> 88</item>
+               <item>Dr. Riſhton, Jeffery <hi>O. Anno</hi> 61</item>
+               <item>Dr. Rivet, John <hi>C. Anno</hi> 70</item>
+               <item>* Dr. Robinſon, Rich. <hi>C. Anno</hi> 80</item>
+               <item>Dr. Robinſon, Tanc. <hi>C. Anno</hi> 85</item>
+               <item>‖ Dr. Rogers, John <hi>O. Anno</hi> 64</item>
+               <item>* Dr. Romp, Peter <hi>C. Anno</hi> 71</item>
+               <item>Dr. Roſe, Thomas <hi>O. Anno</hi> 81</item>
+               <item>* Dr. Roſs, Thomas <hi>C. Anno</hi> 71</item>
+               <item>* Dr. Rowls, Samuel <hi>C. Anno</hi> 75</item>
+               <item>* Dr. Rude, Edward <hi>C. Anno</hi> 71</item>
+               <item>‖ Dr. Rufine, James <hi>C. Anno</hi> 74</item>
+               <item>* Dr. Ruſſel, William <hi>C. Anno</hi> 88</item>
+            </list>
+            <list>
+               <head>S</head>
+               <item>Dr. SAgittary, Fre.<hi>O. Anno</hi> 61</item>
+               <item>Dr. Sagittarius Jo. <hi>O. Anno</hi> 93</item>
+               <item>* Dr. Saictot, Ant. de <hi>O. Anno</hi> 80</item>
+               <item>* Dr. Samburne, Tho. <hi>C. Anno</hi> 71</item>
+               <item>* Dr. Schuldham, Ro. <hi>C. Anno</hi> 81</item>
+               <item>* Dr. Seaman, Will. <hi>C. Anno</hi> 76</item>
+               <item>Dr. Seimour, Tho. <hi>O. Anno</hi> 95</item>
+               <item>* Dr. Sermon, Will. <hi>C. Anno</hi> 69</item>
+               <item>* Dr. Short, Tho. <hi>C. Anno</hi> 68</item>
+               <item>Dr. Skinner, Matth. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Skynner, Tho. <hi>O. Anno</hi> 72</item>
+               <item>* Dr. Skrymſher, Ger. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Slatholme, Will. <hi>C. Anno</hi> 60</item>
+               <item>‖ * Dr. Slear, Freder. <hi>Pala<g ref="char:EOLhyphen"/>tino-Germanus, O.C. Anno</hi> 80</item>
+               <item>Dr. Smith, John <hi>O. Anno</hi> 59</item>
+               <item>Dr. Smith, Francis <hi>O. Anno</hi> 89</item>
+               <item>‖ Dr. Smith, Richard <hi>O. Anno</hi> 78</item>
+               <item>Dr. Smith, Robert <hi>O. Anno</hi> 84</item>
+               <item>‖ Dr. Smyth, George <hi>O. Anno</hi> 61</item>
+               <item>Dr. Soame, Barnh. <hi>C. Anno</hi> 92</item>
+               <item>Dr. Sparke, Will. <hi>O. Anno</hi> 61</item>
+               <item>Dr. Speed, John <hi>O. Anno</hi> 66</item>
+               <item>* Dr. Spencer, Tho. <hi>C. Anno</hi> 70</item>
+               <item>‖ Dr. Sprackling, Ro. <hi>C. Anno</hi> 62</item>
+               <item>‖ Dr. Stanley, Nich. <hi>O. Anno</hi> 60</item>
+               <item>Dr. Stanley, Nich. <hi>O. Anno</hi> 90</item>
+               <item>‖ Dr. Stapley, Rob. <hi>O. Anno</hi> 61</item>
+               <item>Dr. Stillingfleet Ed. <hi>C. Anno</hi> 92</item>
+               <item>* Dr. Stokes, Rich. <hi>C. Anno</hi> 63</item>
+               <item>Dr. Sturton, Edw. <hi>C. Anno</hi> 60</item>
+               <item>* Dr. Sutton, Tho. <hi>O. Anno</hi> 92</item>
+               <item>Dr. Sydenham, Tho. <hi>C. Anno</hi> 76</item>
+            </list>
+            <list>
+               <head>T</head>
+               <item>Dr. TAdlow, Cha. <hi>O. Anno</hi> 93</item>
+               <item>Dr. Thomas Da. <hi>O. Anno</hi> 70</item>
+               <item>Dr. Threapland, Sa. <hi>C. Anno</hi> 82</item>
+               <item>Dr. Thurſton, Ger. <hi>O. Anno</hi> 93</item>
+               <item>* Dr. Thurſton, Mal. <hi>C. Anno</hi> 64</item>
+               <item>Dr. Torleſſe, Rich. <hi>O. Anno</hi> 66</item>
+               <item>Dr. Townes, Tho. <hi>C. Anno</hi> 74</item>
+               <item>‖ Dr. Trever, Rich. <hi>O. Anno</hi> 61</item>
+               <item>* Dr. Triplet, Ralph <hi>C. Anno</hi> 61</item>
+               <item>* Dr. Troutback Joh. <hi>C. Anno</hi> 61</item>
+               <item>Dr. Turbervile, Dawb <hi>O. Anno</hi> 60</item>
+               <item>Dr. Twyſden, Char. <hi>O. Anno</hi> 77</item>
+               <item>Dr. Tyſon, Edw. <hi>C. Anno</hi> 80</item>
+            </list>
+            <list>
+               <head>V</head>
+               <item>Dr. VAſſon, Peter <hi>O. Anno</hi> 59</item>
+               <item>‖ Dr. Vaughan, Wi. <hi>C Anno</hi> 74</item>
+               <item>‖ Dr. Vaux, <hi>Sir</hi> Th. de <hi>O. Anno</hi> 68</item>
+               <item>Dr. Vendoſme, Ph. de <hi>C. Anno</hi> 80</item>
+               <item>* Dr. Veningen, Eberard Frederick, <hi>&amp;c. O. Anno</hi> 80</item>
+               <item>Dr. Vic, Henry de, <hi>Knight O. Anno</hi> 63</item>
+            </list>
+            <list>
+               <head>W</head>
+               <item>* Dr. WAlker, Will. <hi>C. Anno</hi> 87</item>
+               <item>Dr. Wallace, Jo. <hi>C. Anno</hi> 83</item>
+               <item>* Dr. Wallpoole, Art. <hi>C. Anno</hi> 60</item>
+               <item>‖ Dr. Warde, Hamnet <hi>O. Anno</hi> 61</item>
+               <item>Dr. Warner, Will. <hi>O. Anno</hi> 76</item>
+               <item>‖ Dr. Waterhouſe, Th. <hi>O. Anno</hi> 69</item>
+               <item>Dr. Watſon, Henry <hi>C. Anno</hi> 73</item>
+               <item>Dr. Welman, Simon <hi>C. Anno</hi> 86</item>
+               <item>* Dr. Whitwell, Will. <hi>C. Anno</hi> 60</item>
+               <item>Dr. Wigmore, Will. <hi>C. Anno</hi> 81</item>
+               <item>Dr. Williams, Dav. <hi>O. Anno</hi> 83</item>
+               <item>* Dr. Williams, Tho. <hi>C. Anno</hi> 68</item>
+               <item>* Dr. Willis, Nathan <hi>C. Anno</hi> 61</item>
+               <item>Dr. Willis, Thomas <hi>O. Anno</hi> 60</item>
+               <item>Dr. Willis, Francis <hi>O. Anno</hi> 94</item>
+               <item>‖ Dr. Willughby, Cha. <hi>O. Anno</hi> 64</item>
+               <item>Dr. Wilſon, Rich. <hi>O. Anno</hi> 94</item>
+               <item>‖ Dr. Witty, Robert <hi>O. Anno</hi> 80</item>
+               <item>Dr. Wivell, Henry <hi>C. Anno</hi> 62</item>
+               <item>* Dr. Woodgate, Sam. <hi>C. Anno</hi> 93</item>
+               <item>* Dr. Woodward, Joh. <hi>C. Anno</hi> 95</item>
+               <item>‖ Dr. Woolaſton, Joh. <hi>C. Anno</hi> 93</item>
+               <item>Dr. Wren, Thomas <hi>O. Anno</hi> 60</item>
+               <item>* Dr. Wrench, Rob. <hi>C. Anno</hi> 71</item>
+               <item>Dr. Wrench, Benja. <hi>C. Anno</hi> 95</item>
+               <item>Dr. Wrigglyſworth, Ed. <hi>O. Anno</hi> 79</item>
+               <item>Dr. Wright, Laur. <hi>C. Anno</hi> 66</item>
+               <item>Dr. Wright, John <hi>C. Anno</hi> 84</item>
+               <item>Dr. Wyat, Henry <hi>O. Anno</hi> 60</item>
+            </list>
+            <list>
+               <head>Y</head>
+               <item>* Dr. YArborough, Edw. <hi>C. Anno</hi> 65</item>
+            </list>
+            <p>
+               <hi>In all</hi> 386.</p>
+            <p>☞ <hi>The <hi>Monopoly</hi> and <hi>New Aſſociation</hi> of Phyſicians in</hi> Warwick-Lane, <hi>Who vulgarly call <hi>Themſelves</hi> the <hi>College,</hi> was the</hi> 4th. <hi>of</hi> October, 1695. <hi>made up of</hi> 130 <hi>Members, moſt of which are no Doctors; and ſcarce</hi> 40 <hi>of them Regular Doctors in either of our <g ref="char:V">Ʋ</g>niverſities, as will appear by Comparing their</hi> CATALOGUE <hi>with this.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the YEAR MDCXCVI.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
